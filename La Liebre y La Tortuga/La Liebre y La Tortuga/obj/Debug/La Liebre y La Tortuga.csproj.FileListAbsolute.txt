@@ -1,0 +1,10 @@
+C:\Users\ramon\Documents\Estructura de datos\Datos\Distancia Puntos\La Liebre y La Tortuga\La Liebre y La Tortuga\bin\Debug\La Liebre y La Tortuga.exe.config
+C:\Users\ramon\Documents\Estructura de datos\Datos\Distancia Puntos\La Liebre y La Tortuga\La Liebre y La Tortuga\bin\Debug\La Liebre y La Tortuga.exe
+C:\Users\ramon\Documents\Estructura de datos\Datos\Distancia Puntos\La Liebre y La Tortuga\La Liebre y La Tortuga\bin\Debug\La Liebre y La Tortuga.pdb
+C:\Users\ramon\Documents\Estructura de datos\Datos\Distancia Puntos\La Liebre y La Tortuga\La Liebre y La Tortuga\obj\Debug\La Liebre y La Tortuga.csprojResolveAssemblyReference.cache
+C:\Users\ramon\Documents\Estructura de datos\Datos\Distancia Puntos\La Liebre y La Tortuga\La Liebre y La Tortuga\obj\Debug\La_Liebre_y_La_Tortuga.Form1.resources
+C:\Users\ramon\Documents\Estructura de datos\Datos\Distancia Puntos\La Liebre y La Tortuga\La Liebre y La Tortuga\obj\Debug\La_Liebre_y_La_Tortuga.Properties.Resources.resources
+C:\Users\ramon\Documents\Estructura de datos\Datos\Distancia Puntos\La Liebre y La Tortuga\La Liebre y La Tortuga\obj\Debug\La Liebre y La Tortuga.csproj.GenerateResource.Cache
+C:\Users\ramon\Documents\Estructura de datos\Datos\Distancia Puntos\La Liebre y La Tortuga\La Liebre y La Tortuga\obj\Debug\La Liebre y La Tortuga.csproj.CoreCompileInputs.cache
+C:\Users\ramon\Documents\Estructura de datos\Datos\Distancia Puntos\La Liebre y La Tortuga\La Liebre y La Tortuga\obj\Debug\La Liebre y La Tortuga.exe
+C:\Users\ramon\Documents\Estructura de datos\Datos\Distancia Puntos\La Liebre y La Tortuga\La Liebre y La Tortuga\obj\Debug\La Liebre y La Tortuga.pdb
